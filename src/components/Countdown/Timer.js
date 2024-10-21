@@ -6,7 +6,7 @@ class CountDown extends Component {
     super(props);
     this.count = this.count.bind(this);
     this.state = {
-      days: 60,
+      days: 45,
       hours: 0,
       minutes: 0,
       seconds: 0,
